@@ -157,4 +157,4 @@ for file in excel_files:
     shutil.move(src, dst)
 
 print("Gộp file hoàn thành.")
-print(f"Tổng số file: {len(excel_files)}")
+print(f"Tổng số file đã gộp: {len(excel_files)}")
