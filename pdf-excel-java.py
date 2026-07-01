@@ -5,8 +5,8 @@ import tabula
 # ==========================
 # Đường dẫn
 # ==========================
-INPUT_FOLDER = r"D:\DATASQL\Python\Input"
-OUTPUT_FOLDER = r"D:\DATASQL\Python\Output"
+INPUT_FOLDER = r"D:\DATASQL\Input"
+OUTPUT_FOLDER = r"D:\DATASQL\Output"
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
