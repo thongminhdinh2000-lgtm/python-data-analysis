@@ -5,8 +5,8 @@ import pandas as pd
 # ==========================
 # Đường dẫn
 # ==========================
-INPUT_FOLDER = r"D:\DATASQL\Python\Input"
-OUTPUT_FOLDER = r"D:\DATASQL\Python\Output"
+INPUT_FOLDER = r"D:\DATASQL\Input"
+OUTPUT_FOLDER = r"D:\DATASQL\Output"
 
 # Nếu chưa có thư mục Output thì tạo
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
